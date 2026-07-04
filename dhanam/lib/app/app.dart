@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'router.dart';
-import '../design_system/app_theme.dart';
+import '../design_system/theme/app_theme.dart';
 
 class LedgerApp extends StatelessWidget {
   const LedgerApp({super.key});
